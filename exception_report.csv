@@ -1,0 +1,5 @@
+Order ID,Customer Name,Email,Product,Unit Price,Quantity,Order Date,Status
+ORD-010,Sara Khan,sara.khan@example.com,Keyboard,,2.0,2026-09-11,Completed
+ORD-012,David Ali,david.ali@example.com,Desk,190.0,,2026-09-13,Completed
+ORD-019,David Ali,david.ali@example.com,Desk,,2.0,2026-09-20,Completed
+ORD-033,David Ali,david.ali@example.com,Desk,190.0,1.0,,Completed

@@ -1,0 +1,8 @@
+Metric,Value
+Original Records,38
+Cleaned Records,35
+Duplicates Removed,3
+Remaining Exact Duplicates,0
+Missing Unit Prices,2
+Missing Quantities,1
+Missing Order Dates,1
